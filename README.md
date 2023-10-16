@@ -1,7 +1,6 @@
-### Hi there 👋 I'm [Adam Fahmi!](https://github.com/Danushka2/Danushka2/)
+### Hi there 👋 I'm [Adam Fahmi!]
 
 <img align="right" alt="GIF" height="160px" src="https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C" />
-<iframe src="https://giphy.com/embed/koUtwnvA3TY7C" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C">via GIPHY</a></p>
 
 ## I'm a Data Engineer Student at UTM
 
