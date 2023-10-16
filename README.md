@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Adam+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-## <img src="https://giphy.com/embed/koUtwnvA3TY7C" width="50px" height="50px"></img> About Me
+##About Me
 
 - :credit_card: My full name is **Shourya Sharma** <iframe src="https://giphy.com/embed/koUtwnvA3TY7C" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C">via GIPHY</a></p>
 - :school: I'm currently the Final year student at **UTM Skudai**
