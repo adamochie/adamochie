@@ -2,8 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Adam+%3C3;TN+is+me!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-About Me
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> About me
 - :credit_card: My full name is **Muhammad Adam Fahmi Bin Mohd Taufiq*
 - :school: I'm currently a 3rd year student at **UTM Skudai**
 - :books: My major is **Data Engineering**
