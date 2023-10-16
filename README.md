@@ -5,11 +5,11 @@
 About Me
 
 - :credit_card: My full name is **Muhammad Adam Fahmi Bin Mohd Taufiq*
-- :school: I'm currently the Final year student at **UTM Skudai**
+- :school: I'm currently a 3rd year student at **UTM Skudai**
 - :books: My major is **Data Engineering**
 - :earth_asia: I'm living now in **Puchong, Seri Kembangan, Selangor**
-- :sweat_smile: I'm a intermediate in coding :penguin:
-- :monocle_face: I'm interested in coding, sleeping, and watching film
+- :sweat_smile: I'm an intermediate in coding :penguin:
+- :monocle_face: I'm interested in coding, sleeping, and game-developing
 - :sunglasses: My quote is **_"It's never too late - never too late to start over, never too late to be happy"_**
 - :ok_hand: Fun fact: have problem :point_right: sleep, happy :point_right: sleep, sad :point_right: sleep ~~ everything :point_right: sleep
 
