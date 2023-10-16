@@ -4,7 +4,7 @@
 
 About Me
 
-- :credit_card: My full name is **Shourya Sharma** <iframe src="https://giphy.com/embed/koUtwnvA3TY7C" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C">via GIPHY</a></p>
+- :credit_card: My full name is **Muhammad Adam Fahmi Bin Mohd Taufiq* <iframe src="https://giphy.com/embed/koUtwnvA3TY7C" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C">via GIPHY</a></p>
 - :school: I'm currently the Final year student at **UTM Skudai**
 - :books: My major is **Data Engineering**
 - :earth_asia: I'm living now in **Puchong, Seri Kembangan, Selangor**
