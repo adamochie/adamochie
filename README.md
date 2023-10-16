@@ -4,7 +4,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img> About Me
 
-- :credit_card: My full name is **Shourya Sharma** <img src="https://i.pinimg.com/originals/df/1a/ff/df1aff8395678d11b99b575f0e3b19d5.gif" width="400" align="right"/>
+- :credit_card: My full name is **Shourya Sharma** <iframe src="https://giphy.com/embed/koUtwnvA3TY7C" width="480" height="281" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/just-his-about-koUtwnvA3TY7C">via GIPHY</a></p>
 - :school: I'm currently the Final year student at **IIT Kharagpur**
 - :books: My major is **Software Engineering**
 - :earth_asia: I'm living now in **Kharagpur, West Bengal, India**
