@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Ariel&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Adam+<:;I+am+HIMMMMMMMMM!!!;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
-<div class="tenor-gif-embed" data-postid="10674657" data-share-method="host" data-aspect-ratio="1.46789" data-width="100%"><a href="https://tenor.com/view/flaming-elmo-flaming-elmo-meme-flaming-elmo-memes-gif-10674657">Flaming Elmo Flaming Elmo Meme GIF</a>from <a href="https://tenor.com/search/flaming+elmo-gifs">Flaming Elmo GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> About me
 - :credit_card: My full name is *Muhammad Adam Fahmi Bin Mohd Taufiq*
 - :school: I'm currently a 3rd year student at **UTM Skudai**
