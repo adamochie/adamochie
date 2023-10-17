@@ -96,8 +96,9 @@
 
 ### 🌱 My latest projects
 
-- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
+- [maximousblk/pi-wifi-check](https://github.com/adamochie/intellectplayschool_proj) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
 - https://muhammadadamfahmi.000webhostapp.com/
+- [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System (attendance module)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
