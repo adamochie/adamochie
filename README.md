@@ -23,7 +23,8 @@
 
 <p  align="center">
 
-<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="25"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+&nbsp;
   </p>
   
 <p  align="center">
@@ -57,8 +58,6 @@
 </p>
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
-&nbsp;
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25">
 &nbsp;
     <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" height="25">
