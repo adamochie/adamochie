@@ -95,8 +95,8 @@
 <br>
 
 <div align="center">
-  <p>;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamochie&show_icons=true&locale=en" alt="adamochie" /></p>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+  <p img align="center" src="https://github-readme-stats.vercel.app/api?username=adamochie&show_icons=true&locale=en" alt="adamochie" /><img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" /></p>
+  
 </div>
 
 
