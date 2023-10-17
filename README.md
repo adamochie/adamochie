@@ -88,6 +88,7 @@
 <p>
 
 <div align="center">
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
   &copy; 2023 Adam Fahmi
 </div>
