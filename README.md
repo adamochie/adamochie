@@ -88,7 +88,7 @@
 <p>
 
 <div align="center">
-  :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
+  :bowtie: Thanks for watching my profile! Have a nice day! 🤟 <br/>
   &copy; 2023 Adam Fahmi
 </div>
 
