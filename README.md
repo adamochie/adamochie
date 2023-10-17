@@ -94,7 +94,7 @@
 - [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
 - [maximousblk/chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies
 
-### 🌱 My latest projects
+### 🌱 My Past projects
 
 - [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System
