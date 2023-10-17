@@ -96,7 +96,7 @@
 
 ### 🌱 My latest projects
 
-- [maximousblk/pi-wifi-check](https://github.com/adamochie/intellectplayschool_proj) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
+- [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System
 - [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System (attendance module)
 
