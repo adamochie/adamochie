@@ -88,7 +88,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
+- in the making.....
 
 ### 🌱 My Past projects
 
