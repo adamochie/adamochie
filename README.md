@@ -10,7 +10,7 @@
 - :earth_asia: I'm living now in **Puchong, Seri Kembangan, Selangor**
 - 💻: I'm an intermediate in coding :penguin:
 - ⚽: I'm interested in coding, cooking, football, and game-developing
-- :sunglasses: My quote is **_"Thinking you’re no-good and worthless is the worst thing you can do"_**
+- 👤: My quote is **_"Thinking you’re no-good and worthless is the worst thing you can do"_**
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Some Languages and Tools
 
