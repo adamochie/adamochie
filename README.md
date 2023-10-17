@@ -96,9 +96,10 @@
 
 ### 🌱 My Past projects
 
-- [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System
-- [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System
-- [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System (attendance module)
+- [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System (CPP)
+- [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
+- [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
+- [adamochie/Ticket-Bus-System](https://github.com/adamochie/Ticket-Bus-System) - Ticket Bus Management System (CPP)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
