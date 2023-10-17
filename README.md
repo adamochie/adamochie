@@ -89,13 +89,10 @@
 ### 👷 Check out what I'm currently working on
 
 - [maximousblk/passkeys-demo](https://github.com/maximousblk/passkeys-demo) - A simple Passkeys demo
-- [maximousblk/pi-wifi-check](https://github.com/maximousblk/pi-wifi-check) - WiFi checker and auto-reconnect script with optional logging and Prometheus metrics
-- [maximousblk/gh-fire](https://github.com/maximousblk/gh-fire) - 🔥 Save Your Code in an Emergency
-- [three-em/3em](https://github.com/three-em/3em) - A blazingly fast, secure, reliable, multi-language execution machine for Smart Contracts.
-- [maximousblk/chart](https://github.com/maximousblk/chart) - Console ASCII line charts with no dependencies
 
 ### 🌱 My Past projects
 
+- [adamochie/Clustering_K-MEANS_data](https://github.com/adamochie/Clustering_K-MEANS_data) - Clustering Data (KNIME)
 - [adamochie/Game-Breaker-JAVA-OOP](https://github.com/adamochie/Game-Breaker-JAVA-OOP) - Game Breaker (java)
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
 - [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, mySQL)
