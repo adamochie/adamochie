@@ -19,9 +19,11 @@
 
 <br>
 
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
+
 <p  align="center">
 
-<img src="https://img.shields.io/badge/jupyter-F3631D.svg?&style=for-the-badge&logo=jupyter&logoColor=white" height="25"/>
+<img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="25"/>
   </p>
   
 <p  align="center">
