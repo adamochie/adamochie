@@ -3,7 +3,7 @@
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> About me
-- 🧙‍♂️ My full name is *Muhammad Adam Fahmi Bin Mohd Taufiq*
+- 🧙‍♂️ My full name is **Muhammad Adam Fahmi Bin Mohd Taufiq**
 - :school: I'm currently a 3rd year student at **UTM Skudai**
 - 🍰 My Birthday is on **22 Nov 2002**
 - :books: My major is **Data Engineering**
