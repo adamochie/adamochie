@@ -96,10 +96,11 @@
 
 ### 🌱 My Past projects
 
-- [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System (CPP)
+- [adamochie/Game-Breaker-JAVA-OOP](https://github.com/adamochie/Game-Breaker-JAVA-OOP) - Game Breaker (java)
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
 - [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, mySQL)
 - [adamochie/Ticket-Bus-System](https://github.com/adamochie/Ticket-Bus-System) - Ticket Bus Management System (CPP)
+- [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System (CPP)
 - [adamochie/Data-analysis-UTM-Students-Survey](https://github.com/adamochie/Data-analysis-UTM-Students-Survey) - Data analysis UTM Students Survey (R, Excel)
 - [adamochie/Student-Performance-Data-Analysis](https://github.com/adamochie/Student-Performance-Data-Analysis) - Student Performance Data Analysis (R)
 - [adamochie/Vending-Machine-System](https://github.com/adamochie/Vending-Machine-System) - Vending Machine System (ASSEMBLY)
