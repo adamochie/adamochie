@@ -76,7 +76,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="center">
-  <a href="adamfahmi.taufiq02@gmail.com" >
+  <a href="" >
     <img align="center" alt="adamfahmi.taufiq02@gmail.com | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
