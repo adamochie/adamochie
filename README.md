@@ -92,6 +92,8 @@
   &copy; 2023 Adam Fahmi
 </div>
 
+<br>
+
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
