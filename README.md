@@ -76,7 +76,7 @@
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
 <p align="left">
-<a href="https://linkedin.com/in/adam-fahmi-taufiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam-fahmi-taufiq" height="30" width="40" /></a>
+
 <a href="https://www.youtube.com/c/adam fahmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="adam fahmi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/adamochie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="adamochie" height="30" width="40" /></a>
 </p>
@@ -85,7 +85,11 @@
   <a href="adamfahmi.taufiq02@gmail.com" >
     <img align="center" alt="Adam | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  
+
+  <a href="https://www.youtube.com/c/adam fahmi" target="_blank">
+    <img align="center" alt="Adam | Youtube" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
+  </a> &nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/adam-fahmi-taufiq/" target="_blank">
     <img align="center" alt="Adam | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp;
