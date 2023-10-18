@@ -19,7 +19,7 @@
 
 <br>
 
-<p align="left"> 
+<p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" height="35"/> </a> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws"height="35"/> </a> 
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" height="35"/> </a> 
@@ -96,6 +96,7 @@
 - [adamochie/Game-Breaker-JAVA-OOP](https://github.com/adamochie/Game-Breaker-JAVA-OOP) - Game Breaker (java)
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
 - [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, mySQL)
+- [adamochie/KonohaCinemaBookingSys](https://github.com/adamochie/KonohaCinemaBookingSys) - Konoha Cinema Booking System (C)
 - [adamochie/Ticket-Bus-System](https://github.com/adamochie/Ticket-Bus-System) - Ticket Bus Management System (CPP)
 - [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System (CPP)
 - [adamochie/Data-analysis-UTM-Students-Survey](https://github.com/adamochie/Data-analysis-UTM-Students-Survey) - Data analysis UTM Students Survey (R, Excel)
