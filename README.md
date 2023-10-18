@@ -115,7 +115,7 @@
     <img align="center" alt="adamfahmi.taufiq02@gmail.com | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 
-  <a href="=https://www.youtube.com/c/adam fahmi" target="_blank">
+  <a href="https://www.youtube.com/channel/UC9DmmwPlwkc84gJg_58w11w" target="_blank">
     <img align="center" alt="Adam | Youtube" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" />
   </a> &nbsp;&nbsp;
 
