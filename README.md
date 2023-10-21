@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="matrix-elmo.gif" alt="Adam">
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Ariel&color=%2338C2FF&size=50&center=true&vCenter=true&height=60&width=600&lines=Heyyy!+I'm+Adam+<:;Welcome+to+my+profile!" alt="Title"></img>
 </div>
 
