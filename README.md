@@ -115,6 +115,7 @@
 
 - [AWS Academy Graduate - AWS Cloud Foundations](https://www.credly.com/badges/37bd6fde-ef9c-4bb8-b641-4cc16a2b28a3/public_url) 
 - [Microsoft Certified - Azure Data Fundamentals](https://www.credly.com/badges/ab60ceb1-9255-47cf-bbc6-c9b328d0862a/public_url)
+- [Alteryx - Alteryx Foundation](https://community.alteryx.com/t5/user/viewprofilepage/user-id/509391?emcs_t=S2h8ZW1haWx8YXdhcmRfdXNlcl9iYWRnZXxMTzQ5NDk2Q1g0S0xOUnwtMXxPVEhFUlN8aEs)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
