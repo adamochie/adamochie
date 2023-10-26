@@ -12,7 +12,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> About me
 - 🧙‍♂️ My full name is **Muhammad Adam Fahmi Bin Mohd Taufiq**
 - :school: I'm currently a 3rd year student at **UTM Skudai**
-- 🍰 My Birthday is on **22 Nov 2002**
+- 🧁 My Birthday is on **22 Nov 2002**
 - :books: My major is **Data Engineering**
 - :earth_asia: I'm living now in **Puchong, Seri Kembangan, Selangor**
 - 💻 I'm an intermediate in coding :penguin:
@@ -115,7 +115,7 @@
 
 - [AWS Academy Graduate - AWS Cloud Foundations](https://www.credly.com/badges/37bd6fde-ef9c-4bb8-b641-4cc16a2b28a3/public_url) 
 - [Microsoft Certified - Azure Data Fundamentals](https://www.credly.com/badges/ab60ceb1-9255-47cf-bbc6-c9b328d0862a/public_url)
-- [Alteryx - Alteryx Foundation](https://community.alteryx.com/t5/user/viewprofilepage/user-id/509391?emcs_t=S2h8ZW1haWx8YXdhcmRfdXNlcl9iYWRnZXxMTzQ5NDk2Q1g0S0xOUnwtMXxPVEhFUlN8aEs)
+- [Alteryx - Alteryx Foundation](https://www.credly.com/badges/354a9104-3a65-49fa-ab50-00577b16996a/public_url)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
