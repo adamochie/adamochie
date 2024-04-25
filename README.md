@@ -120,7 +120,8 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [adamochie/Bulky_MVC](https://github.com/adamochie/Bulky_MVC) Bulky web using asp.net (ASP.NET/ MVC)
+- [adamochie/FYP Management System](https://github.com/adamochie/FYP-Management-System) Academic Management system using asp.net (ASP.NET/ MVC, C#)
+- [adamochie/Bulky_MVC](https://github.com/adamochie/Bulky_MVC) Bulky web using asp.net (ASP.NET/ MVC, C#)
 
 ### 🌱 My Past projects
 
