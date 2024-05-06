@@ -125,10 +125,19 @@
 
 ### 🌱 My Past projects
 
+Web-Dev
+- [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
+- [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, MySQL)
+
+= [High Performance Data Processing using Vaex](https://github.com/drshahizan/Python-big-data/blob/71674c98e14d99d194b0656a3bf52e6c9dc43f13/assignment/ass7/hpdp/Pergolakan/readme.md) - HPDP using tools (Vaex)
+= [Mastering Big Data Handling](https://github.com/drshahizan/Python-big-data/blob/71674c98e14d99d194b0656a3bf52e6c9dc43f13/assignment/ass6/hpdp/popsmoke/readme.md) - Crimes In Chicago Dataset (Python/Google Collab)
+= [Automated Feature Engineering Tools](https://github.com/drshahizan/Python_EDA/blob/f078f7f2ae684d5a46ed257b6c08f64c592c1b98/assignment/ass5/hpdp/PERgolakan/readme.md) - Automated Feature Engineering using Tools (Python/Google Collab)
+= [Feature Engineering](https://github.com/drshahizan/Python_EDA/blob/f078f7f2ae684d5a46ed257b6c08f64c592c1b98/assignment/ass4/hpdp/PERgolakan/readme.md) - Feature Engineering (Kaggle)
+= [Exploratory Data Analysis (EDA) Using Big Data](https://github.com/drshahizan/Python_EDA/blob/f078f7f2ae684d5a46ed257b6c08f64c592c1b98/assignment/ass3/hpdp/PERgolakan/readme.md) - EDA on Big Data (Python/Google Collab)
+= [Exploratory Data Analysis using Python](https://github.com/drshahizan/Python_EDA/blob/f078f7f2ae684d5a46ed257b6c08f64c592c1b98/assignment/ass2/hpdp/Pergolakan/readme.md) - EDA (Python/Google Collab)
+- [Data analysis using Google Sheets](https://github.com/drshahizan/HPDP/blob/555ca2f90a6445b791e99a39e30872cd205a5ea9/assignment/submission/ass1/ohSheet/readme.md) - Data analysis (Google Sheets)
 - [adamochie/Clustering_K-MEANS_data](https://github.com/adamochie/Clustering_K-MEANS_data) - Clustering Data (KNIME)
 - [adamochie/Game-Breaker-JAVA-OOP](https://github.com/adamochie/Game-Breaker-JAVA-OOP) - Game Breaker (java)
-- [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
-- [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, mySQL)
 - [adamochie/KonohaCinemaBookingSys](https://github.com/adamochie/KonohaCinemaBookingSys) - Konoha Cinema Booking System (C)
 - [adamochie/Ticket-Bus-System](https://github.com/adamochie/Ticket-Bus-System) - Ticket Bus Management System (CPP)
 - [adamochie/Healthcare-Appointment-System](https://github.com/adamochie/Healthcare-Appointment-System) - Healthcare Booking System (CPP)
@@ -142,6 +151,7 @@
 - [AWS Academy Graduate - AWS Cloud Foundations](https://www.credly.com/badges/37bd6fde-ef9c-4bb8-b641-4cc16a2b28a3/public_url) 
 - [Microsoft Certified - Azure Data Fundamentals](https://www.credly.com/badges/ab60ceb1-9255-47cf-bbc6-c9b328d0862a/public_url)
 - [Alteryx - Alteryx Foundation](https://www.credly.com/badges/354a9104-3a65-49fa-ab50-00577b16996a/public_url)
+- [Kaggle - Feature Engineering](https://www.kaggle.com/learn/certification/adamfahmiadamochie/feature-engineering)
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
