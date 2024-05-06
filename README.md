@@ -121,7 +121,7 @@
 ### 👷 Check out what I'm currently working on
 
 - [adamochie/FYP Management System](https://github.com/adamochie/FYP-Management-System) Academic Management system using asp.net (ASP.NET/ MVC, C#)
-- [adamochie/Bulky_MVC](https://github.com/adamochie/Bulky_MVC) Bulky web using asp.net (ASP.NET/ MVC, C#)
+- [BookStore Bulky](https://github.com/adamochie/Bulky_MVC) Bookstore website using asp.net (ASP.NET/ MVC, C#)
 
 ### 🌱 My Past projects
 
