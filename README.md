@@ -125,10 +125,8 @@
 
 ### 🌱 My Past projects
 
-Web-Dev
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
 - [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, MySQL)
-
 - [High Performance Data Processing using Vaex](https://github.com/drshahizan/Python-big-data/blob/71674c98e14d99d194b0656a3bf52e6c9dc43f13/assignment/ass7/hpdp/Pergolakan/readme.md) - HPDP using tools (Vaex)
 - [Mastering Big Data Handling](https://github.com/drshahizan/Python-big-data/blob/71674c98e14d99d194b0656a3bf52e6c9dc43f13/assignment/ass6/hpdp/popsmoke/readme.md) - Crimes In Chicago Dataset (Python/Google Collab)
 - [Automated Feature Engineering Tools](https://github.com/drshahizan/Python_EDA/blob/f078f7f2ae684d5a46ed257b6c08f64c592c1b98/assignment/ass5/hpdp/PERgolakan/readme.md) - Automated Feature Engineering using Tools (Python/Google Collab)
