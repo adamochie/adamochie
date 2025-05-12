@@ -120,11 +120,12 @@
 
 ### 👷 Check out what I'm currently working on
 
-- [adamochie/FYP Management System](https://github.com/adamochie/FYP-Management-System) Academic Management system using asp.net (ASP.NET/ MVC, C#)
-- [BookStore Bulky](https://github.com/adamochie/Bulky_MVC) Bookstore website using asp.net (ASP.NET/ MVC, C#)
+- Interning and work on Company's project (Security concerned)
 
 ### 🌱 My Past projects
 
+- [adamochie/FYP Management System](https://github.com/adamochie/FYP-Management-System) Academic Management system using asp.net (ASP.NET/ MVC, C#)
+- [BookStore Bulky](https://github.com/adamochie/Bulky_MVC) Bookstore website using asp.net (ASP.NET/ MVC, C#)
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
 - [adamochie/intellectplayschool_proj](https://github.com/adamochie/intellectplayschool_proj) - Intellect Playschool Management System - attendance module (HTML, PHP, BOOTSTRAP, MySQL)
 - [adamochie/Data-Analysis-on-Renewable-Energy](https://github.com/adamochie/Data-Analysis-on-Renewable-Energy) - Data Analysis on Renewable Energy (Python/Google Collab)
