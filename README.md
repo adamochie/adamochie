@@ -124,6 +124,7 @@
 
 ### 🌱 My Past projects
 
+- [Rehab Connect](https://github.com/mikhaiIy/RehabConnect) Web application management for an Autism School in Johor Bahru using asp.net (ASP.NET/ MVC, C#, Javascript)
 - [adamochie/FYP Management System](https://github.com/adamochie/FYP-Management-System) Academic Management system using asp.net (ASP.NET/ MVC, C#)
 - [BookStore Bulky](https://github.com/adamochie/Bulky_MVC) Bookstore website using asp.net (ASP.NET/ MVC, C#)
 - [adamochie/car-booking-system](https://github.com/adamochie/car-booking-system) - Simple Car Booking System (HTML, PHP, BOOTSTRAP, phpMyAdmin, more)
