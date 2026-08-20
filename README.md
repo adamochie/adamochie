@@ -11,7 +11,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> About me
 - 🧙‍♂️ My full name is **Muhammad Adam Fahmi Bin Mohd Taufiq**
-- :school: I'm currently a 4th year student at **UTM Skudai** 
+- :school: I'm a Data Engineering graduate at **UTM Skudai** 
 - 🧁 My Birthday is on **22 Nov 2002**
 - :books: My major is **Data Engineering**
 - :earth_asia: I'm living now in **Taman Puncak Jalil, Seri Kembangan, Selangor**
@@ -119,7 +119,7 @@
 
 ### 👷 Check out what I'm currently working on
 
-- Interning and work on Company's project (Security concerned)
+-  Working on Company's project, related to SAP Datasphere, SAC, ANAPLAN, CFIN and more (Security concerned)
 
 ### 🌱 My Past projects
 
@@ -180,7 +180,7 @@
 
 <div align="center">
   :bowtie: Thanks for watching my profile! Have a nice day! 🤟 <br/>
-  &copy; 2023 Adam Fahmi
+  &copy; 2026 Adam Fahmi
 </div>
 
 <br>
