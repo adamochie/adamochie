@@ -152,6 +152,7 @@
 - [Microsoft Certified - Azure Data Fundamentals](https://www.credly.com/badges/ab60ceb1-9255-47cf-bbc6-c9b328d0862a/public_url)
 - [Alteryx - Alteryx Foundation](https://www.credly.com/badges/354a9104-3a65-49fa-ab50-00577b16996a/public_url)
 - [Kaggle - Feature Engineering](https://www.kaggle.com/learn/certification/adamfahmiadamochie/feature-engineering)
+- more on linked in...
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"> For More Information, Please Check Out or Connect Me Via
 
